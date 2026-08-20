@@ -1,0 +1,8 @@
+*.npy
+*.pkl
+*.parquet
+scaled/
+data/
+customer data/
+featured selected/
+.ipynb_checkpoints/
